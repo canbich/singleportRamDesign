@@ -1,0 +1,10 @@
+-d C:\Users\CANBICH\Documents\singleramproject\impl\gwsynthesis\singleramproject.vg
+-p GW1N-1-QFN48-6
+-pn GW1N-LV1QN48C6/I5
+-cfg C:\Users\CANBICH\Documents\singleramproject\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-route_maxfan 23

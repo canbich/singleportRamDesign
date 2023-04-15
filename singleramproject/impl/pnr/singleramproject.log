@@ -1,0 +1,27 @@
+Reading netlist file: "C:\Users\CANBICH\Documents\singleramproject\impl\gwsynthesis\singleramproject.vg"
+Parsing netlist file "C:\Users\CANBICH\Documents\singleramproject\impl\gwsynthesis\singleramproject.vg" completed
+Processing netlist completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "C:\Users\CANBICH\Documents\singleramproject\impl\pnr\singleramproject.power.html" completed
+Generate file "C:\Users\CANBICH\Documents\singleramproject\impl\pnr\singleramproject.pin.html" completed
+Generate file "C:\Users\CANBICH\Documents\singleramproject\impl\pnr\singleramproject.rpt.html" completed
+Generate file "C:\Users\CANBICH\Documents\singleramproject\impl\pnr\singleramproject.rpt.txt" completed
+Generate file "C:\Users\CANBICH\Documents\singleramproject\impl\pnr\singleramproject.tr.html" completed
+Sat Apr 15 10:49:15 2023
+
